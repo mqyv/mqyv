@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mqyv/mqyv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<sub><b>English</b> · <a href="./README.fr.md">Français</a></sub>
 
-Here are some ideas to get you started:
+<h3><code>mqyv@github ~ $ ./contributions.sh</code></h3>
+<img src="./assets/heatmap-en.svg" width="860" alt="mqyv's GitHub contribution graph over the last year" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+
+<h3><code>mqyv@github ~ $ neofetch</code></h3>
+<img src="./assets/neofetch-en.svg" width="860" alt="IT Student · PHP/Symfony, Python, Java, TypeScript · Docker, Proxmox · Project: Vault" />
+
+</div>
