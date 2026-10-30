@@ -399,8 +399,8 @@ text { white-space: pre; }
   <rect class="c" style="animation-delay:1.168s" x="826" y="100" width="12" height="12" rx="2.5" fill="#39d353"/>
   <rect class="c" style="animation-delay:1.185s" x="826" y="115" width="12" height="12" rx="2.5" fill="#006d32"/>
   <rect class="c" style="animation-delay:1.202s" x="826" y="130" width="12" height="12" rx="2.5" fill="#69f0a0"/>
-  <rect class="c" style="animation-delay:1.219s" x="826" y="145" width="12" height="12" rx="2.5" fill="#161b22"/>
-  <text class="f" style="animation-delay:1.24s" x="46" y="201" fill="#c9d1d9" font-size="12.5">43 contributions in the last year</text>
+  <rect class="c" style="animation-delay:1.219s" x="826" y="145" width="12" height="12" rx="2.5" fill="#006d32"/>
+  <text class="f" style="animation-delay:1.24s" x="46" y="201" fill="#c9d1d9" font-size="12.5">45 contributions in the last year</text>
   <g class="f" style="animation-delay:1.24s"><text x="708" y="201" text-anchor="end" fill="#8b949e" font-size="10.5">Less</text><rect x="716" y="191" width="12" height="12" rx="2.5" fill="#161b22"/><rect x="731" y="191" width="12" height="12" rx="2.5" fill="#0e4429"/><rect x="746" y="191" width="12" height="12" rx="2.5" fill="#006d32"/><rect x="761" y="191" width="12" height="12" rx="2.5" fill="#26a641"/><rect x="776" y="191" width="12" height="12" rx="2.5" fill="#39d353"/><rect x="791" y="191" width="12" height="12" rx="2.5" fill="#69f0a0"/><text x="811" y="201" fill="#8b949e" font-size="10.5">More</text></g>
-  <text class="f" style="animation-delay:1.49s" x="46" y="227" fill="#8b949e" font-size="11.5"><tspan fill="#39d353">❯</tspan> current streak 4d  ·  longest streak 4d  ·  best day 25 (Oct 29)</text>
+  <text class="f" style="animation-delay:1.49s" x="46" y="227" fill="#8b949e" font-size="11.5"><tspan fill="#39d353">❯</tspan> current streak 5d  ·  longest streak 5d  ·  best day 25 (Oct 29)</text>
 </svg>
