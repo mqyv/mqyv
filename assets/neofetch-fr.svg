@@ -65,9 +65,9 @@ text { white-space: pre; }
   <g class="l" style="animation-delay:0.35s"><text y="78" font-size="12.5"><tspan x="340" fill="#39d353" font-weight="bold">mqyv</tspan><tspan fill="#c9d1d9">@</tspan><tspan fill="#39d353" font-weight="bold">github</tspan></text></g>
   <g class="l" style="animation-delay:0.43s"><text y="98" font-size="12.5"><tspan x="340" fill="#8b949e">-----------</tspan></text></g>
   <g class="l" style="animation-delay:0.51s"><text y="118" font-size="12.5"><tspan x="340" fill="#58a6ff" font-weight="bold">Actuel</tspan><tspan x="440" fill="#c9d1d9">Étudiant en informatique</tspan></text></g>
-  <g class="l" style="animation-delay:0.59s"><text y="138" font-size="12.5"><tspan x="340" fill="#58a6ff" font-weight="bold">Avant</tspan><tspan x="440" fill="#c9d1d9">Stage dev · Agglomération de Saint-Quentin (2025)</tspan></text></g>
+  <g class="l" style="animation-delay:0.59s"><text y="138" font-size="12.5"><tspan x="340" fill="#58a6ff" font-weight="bold">Avant</tspan><tspan x="440" fill="#c9d1d9">Stage dev (2025)</tspan></text></g>
   <g class="l" style="animation-delay:0.67s"><text y="158" font-size="12.5"><tspan x="440" fill="#8b949e">appli de signalement Symfony, archi MVC, Git</tspan></text></g>
-  <g class="l" style="animation-delay:0.75s"><text y="178" font-size="12.5"><tspan x="440" fill="#c9d1d9">Stage admin réseau · Xelians (2022)</tspan></text></g>
+  <g class="l" style="animation-delay:0.75s"><text y="178" font-size="12.5"><tspan x="440" fill="#c9d1d9">Stage admin réseau (2022)</tspan></text></g>
   <g class="l" style="animation-delay:0.83s"><text y="198" font-size="12.5"><tspan x="440" fill="#8b949e">pare-feu &amp; switchs Aruba, adressage IP</tspan></text></g>
   <g class="l" style="animation-delay:0.91s"><text y="218" font-size="12.5"><tspan x="340" fill="#58a6ff" font-weight="bold">Stack</tspan><tspan x="440" fill="#c9d1d9">PHP/Symfony · Python · Java · TypeScript · SQL</tspan></text></g>
   <g class="l" style="animation-delay:0.99s"><text y="238" font-size="12.5"><tspan x="440" fill="#c9d1d9">Flutter · HTML/CSS/JS</tspan></text></g>
