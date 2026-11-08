@@ -14,19 +14,19 @@ text { white-space: pre; }
   <circle cx="36" cy="15.5" r="5.5" fill="#ffbd2e"/>
   <circle cx="54" cy="15.5" r="5.5" fill="#27c93f"/>
   <text x="430" y="19.5" text-anchor="middle" fill="#8b949e" font-size="12">mqyv — contributions.sh</text>
-  <text x="846" y="19.5" text-anchor="end" fill="#8b949e" font-size="10.5" opacity="0.8">mis à jour le 07/11/2026</text>
+  <text x="846" y="19.5" text-anchor="end" fill="#8b949e" font-size="10.5" opacity="0.8">mis à jour le 08/11/2026</text>
   <text class="f" style="animation-delay:.1s" x="46" y="61" fill="#8b949e" font-size="10.5">nov.</text>
-  <text class="f" style="animation-delay:.1s" x="121" y="61" fill="#8b949e" font-size="10.5">déc.</text>
-  <text class="f" style="animation-delay:.1s" x="181" y="61" fill="#8b949e" font-size="10.5">janv.</text>
-  <text class="f" style="animation-delay:.1s" x="241" y="61" fill="#8b949e" font-size="10.5">févr.</text>
-  <text class="f" style="animation-delay:.1s" x="301" y="61" fill="#8b949e" font-size="10.5">mars</text>
-  <text class="f" style="animation-delay:.1s" x="376" y="61" fill="#8b949e" font-size="10.5">avr.</text>
-  <text class="f" style="animation-delay:.1s" x="436" y="61" fill="#8b949e" font-size="10.5">mai</text>
-  <text class="f" style="animation-delay:.1s" x="511" y="61" fill="#8b949e" font-size="10.5">juin</text>
-  <text class="f" style="animation-delay:.1s" x="571" y="61" fill="#8b949e" font-size="10.5">juil.</text>
-  <text class="f" style="animation-delay:.1s" x="631" y="61" fill="#8b949e" font-size="10.5">août</text>
-  <text class="f" style="animation-delay:.1s" x="706" y="61" fill="#8b949e" font-size="10.5">sept.</text>
-  <text class="f" style="animation-delay:.1s" x="766" y="61" fill="#8b949e" font-size="10.5">oct.</text>
+  <text class="f" style="animation-delay:.1s" x="106" y="61" fill="#8b949e" font-size="10.5">déc.</text>
+  <text class="f" style="animation-delay:.1s" x="166" y="61" fill="#8b949e" font-size="10.5">janv.</text>
+  <text class="f" style="animation-delay:.1s" x="226" y="61" fill="#8b949e" font-size="10.5">févr.</text>
+  <text class="f" style="animation-delay:.1s" x="286" y="61" fill="#8b949e" font-size="10.5">mars</text>
+  <text class="f" style="animation-delay:.1s" x="361" y="61" fill="#8b949e" font-size="10.5">avr.</text>
+  <text class="f" style="animation-delay:.1s" x="421" y="61" fill="#8b949e" font-size="10.5">mai</text>
+  <text class="f" style="animation-delay:.1s" x="496" y="61" fill="#8b949e" font-size="10.5">juin</text>
+  <text class="f" style="animation-delay:.1s" x="556" y="61" fill="#8b949e" font-size="10.5">juil.</text>
+  <text class="f" style="animation-delay:.1s" x="616" y="61" fill="#8b949e" font-size="10.5">août</text>
+  <text class="f" style="animation-delay:.1s" x="691" y="61" fill="#8b949e" font-size="10.5">sept.</text>
+  <text class="f" style="animation-delay:.1s" x="751" y="61" fill="#8b949e" font-size="10.5">oct.</text>
   <text class="f" style="animation-delay:.1s" x="38" y="94.5" text-anchor="end" fill="#8b949e" font-size="10">lun</text>
   <text class="f" style="animation-delay:.1s" x="38" y="124.5" text-anchor="end" fill="#8b949e" font-size="10">mer</text>
   <text class="f" style="animation-delay:.1s" x="38" y="154.5" text-anchor="end" fill="#8b949e" font-size="10">ven</text>
@@ -233,14 +233,14 @@ text { white-space: pre; }
   <rect class="c" style="animation-delay:0.794s" x="466" y="130" width="12" height="12" rx="2.5" fill="#161b22"/>
   <rect class="c" style="animation-delay:0.811s" x="466" y="145" width="12" height="12" rx="2.5" fill="#161b22"/>
   <rect class="c" style="animation-delay:0.828s" x="466" y="160" width="12" height="12" rx="2.5" fill="#161b22"/>
-  <rect class="c" style="animation-delay:0.743s" x="481" y="70" width="12" height="12" rx="2.5" fill="#161b22"/>
+  <rect class="c" style="animation-delay:0.743s" x="481" y="70" width="12" height="12" rx="2.5" fill="#0e4429"/>
   <rect class="c" style="animation-delay:0.760s" x="481" y="85" width="12" height="12" rx="2.5" fill="#161b22"/>
   <rect class="c" style="animation-delay:0.777s" x="481" y="100" width="12" height="12" rx="2.5" fill="#161b22"/>
   <rect class="c" style="animation-delay:0.794s" x="481" y="115" width="12" height="12" rx="2.5" fill="#161b22"/>
   <rect class="c" style="animation-delay:0.811s" x="481" y="130" width="12" height="12" rx="2.5" fill="#161b22"/>
   <rect class="c" style="animation-delay:0.828s" x="481" y="145" width="12" height="12" rx="2.5" fill="#161b22"/>
   <rect class="c" style="animation-delay:0.845s" x="481" y="160" width="12" height="12" rx="2.5" fill="#161b22"/>
-  <rect class="c" style="animation-delay:0.760s" x="496" y="70" width="12" height="12" rx="2.5" fill="#0e4429"/>
+  <rect class="c" style="animation-delay:0.760s" x="496" y="70" width="12" height="12" rx="2.5" fill="#161b22"/>
   <rect class="c" style="animation-delay:0.777s" x="496" y="85" width="12" height="12" rx="2.5" fill="#161b22"/>
   <rect class="c" style="animation-delay:0.794s" x="496" y="100" width="12" height="12" rx="2.5" fill="#161b22"/>
   <rect class="c" style="animation-delay:0.811s" x="496" y="115" width="12" height="12" rx="2.5" fill="#161b22"/>
@@ -381,27 +381,21 @@ text { white-space: pre; }
   <rect class="c" style="animation-delay:1.168s" x="781" y="145" width="12" height="12" rx="2.5" fill="#161b22"/>
   <rect class="c" style="animation-delay:1.185s" x="781" y="160" width="12" height="12" rx="2.5" fill="#161b22"/>
   <rect class="c" style="animation-delay:1.100s" x="796" y="70" width="12" height="12" rx="2.5" fill="#161b22"/>
-  <rect class="c" style="animation-delay:1.117s" x="796" y="85" width="12" height="12" rx="2.5" fill="#161b22"/>
-  <rect class="c" style="animation-delay:1.134s" x="796" y="100" width="12" height="12" rx="2.5" fill="#161b22"/>
-  <rect class="c" style="animation-delay:1.151s" x="796" y="115" width="12" height="12" rx="2.5" fill="#161b22"/>
-  <rect class="c" style="animation-delay:1.168s" x="796" y="130" width="12" height="12" rx="2.5" fill="#161b22"/>
-  <rect class="c" style="animation-delay:1.185s" x="796" y="145" width="12" height="12" rx="2.5" fill="#161b22"/>
-  <rect class="c" style="animation-delay:1.202s" x="796" y="160" width="12" height="12" rx="2.5" fill="#161b22"/>
-  <rect class="c" style="animation-delay:1.117s" x="811" y="70" width="12" height="12" rx="2.5" fill="#161b22"/>
+  <rect class="c" style="animation-delay:1.117s" x="796" y="85" width="12" height="12" rx="2.5" fill="#39d353"/>
+  <rect class="c" style="animation-delay:1.134s" x="796" y="100" width="12" height="12" rx="2.5" fill="#006d32"/>
+  <rect class="c" style="animation-delay:1.151s" x="796" y="115" width="12" height="12" rx="2.5" fill="#0e4429"/>
+  <rect class="c" style="animation-delay:1.168s" x="796" y="130" width="12" height="12" rx="2.5" fill="#69f0a0"/>
+  <rect class="c" style="animation-delay:1.185s" x="796" y="145" width="12" height="12" rx="2.5" fill="#69f0a0"/>
+  <rect class="c" style="animation-delay:1.202s" x="796" y="160" width="12" height="12" rx="2.5" fill="#69f0a0"/>
+  <rect class="c" style="animation-delay:1.117s" x="811" y="70" width="12" height="12" rx="2.5" fill="#0e4429"/>
   <rect class="c" style="animation-delay:1.134s" x="811" y="85" width="12" height="12" rx="2.5" fill="#39d353"/>
-  <rect class="c" style="animation-delay:1.151s" x="811" y="100" width="12" height="12" rx="2.5" fill="#006d32"/>
-  <rect class="c" style="animation-delay:1.168s" x="811" y="115" width="12" height="12" rx="2.5" fill="#0e4429"/>
-  <rect class="c" style="animation-delay:1.185s" x="811" y="130" width="12" height="12" rx="2.5" fill="#69f0a0"/>
-  <rect class="c" style="animation-delay:1.202s" x="811" y="145" width="12" height="12" rx="2.5" fill="#69f0a0"/>
-  <rect class="c" style="animation-delay:1.219s" x="811" y="160" width="12" height="12" rx="2.5" fill="#69f0a0"/>
-  <rect class="c" style="animation-delay:1.134s" x="826" y="70" width="12" height="12" rx="2.5" fill="#0e4429"/>
-  <rect class="c" style="animation-delay:1.151s" x="826" y="85" width="12" height="12" rx="2.5" fill="#39d353"/>
-  <rect class="c" style="animation-delay:1.168s" x="826" y="100" width="12" height="12" rx="2.5" fill="#0e4429"/>
-  <rect class="c" style="animation-delay:1.185s" x="826" y="115" width="12" height="12" rx="2.5" fill="#39d353"/>
-  <rect class="c" style="animation-delay:1.202s" x="826" y="130" width="12" height="12" rx="2.5" fill="#26a641"/>
-  <rect class="c" style="animation-delay:1.219s" x="826" y="145" width="12" height="12" rx="2.5" fill="#0e4429"/>
-  <rect class="c" style="animation-delay:1.236s" x="826" y="160" width="12" height="12" rx="2.5" fill="#161b22"/>
-  <text class="f" style="animation-delay:1.24s" x="46" y="201" fill="#c9d1d9" font-size="12.5">105 contributions sur les 12 derniers mois</text>
+  <rect class="c" style="animation-delay:1.151s" x="811" y="100" width="12" height="12" rx="2.5" fill="#0e4429"/>
+  <rect class="c" style="animation-delay:1.168s" x="811" y="115" width="12" height="12" rx="2.5" fill="#39d353"/>
+  <rect class="c" style="animation-delay:1.185s" x="811" y="130" width="12" height="12" rx="2.5" fill="#26a641"/>
+  <rect class="c" style="animation-delay:1.202s" x="811" y="145" width="12" height="12" rx="2.5" fill="#0e4429"/>
+  <rect class="c" style="animation-delay:1.219s" x="811" y="160" width="12" height="12" rx="2.5" fill="#0e4429"/>
+  <rect class="c" style="animation-delay:1.134s" x="826" y="70" width="12" height="12" rx="2.5" fill="#161b22"/>
+  <text class="f" style="animation-delay:1.24s" x="46" y="201" fill="#c9d1d9" font-size="12.5">106 contributions sur les 12 derniers mois</text>
   <g class="f" style="animation-delay:1.24s"><text x="708" y="201" text-anchor="end" fill="#8b949e" font-size="10.5">Moins</text><rect x="716" y="191" width="12" height="12" rx="2.5" fill="#161b22"/><rect x="731" y="191" width="12" height="12" rx="2.5" fill="#0e4429"/><rect x="746" y="191" width="12" height="12" rx="2.5" fill="#006d32"/><rect x="761" y="191" width="12" height="12" rx="2.5" fill="#26a641"/><rect x="776" y="191" width="12" height="12" rx="2.5" fill="#39d353"/><rect x="791" y="191" width="12" height="12" rx="2.5" fill="#69f0a0"/><text x="811" y="201" fill="#8b949e" font-size="10.5">Plus</text></g>
-  <text class="f" style="animation-delay:1.49s" x="46" y="227" fill="#8b949e" font-size="11.5"><tspan fill="#39d353">❯</tspan> série actuelle 12 j  ·  plus longue série 12 j  ·  meilleur jour 25 (29 oct.)</text>
+  <text class="f" style="animation-delay:1.49s" x="46" y="227" fill="#8b949e" font-size="11.5"><tspan fill="#39d353">❯</tspan> série actuelle 13 j  ·  plus longue série 13 j  ·  meilleur jour 25 (29 oct.)</text>
 </svg>
