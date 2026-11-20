@@ -3,11 +3,11 @@
 <sub><b>English</b> · <a href="./README.fr.md">Français</a></sub>
 
 <h3><code>mqyv@github ~ $ ./contributions.sh</code></h3>
-<img src="./assets/heatmap-en.svg?v=74090a81" width="860" alt="mqyv's GitHub contribution graph over the last year" />
+<img src="./assets/heatmap-en.svg?v=6bd61ed0" width="860" alt="mqyv's GitHub contribution graph over the last year" />
 
 <br><br>
 
 <h3><code>mqyv@github ~ $ neofetch</code></h3>
-<img src="./assets/neofetch-en.svg?v=74090a81" width="860" alt="IT Student · PHP/Symfony, Python, Java, TypeScript · Docker, Proxmox · Project: Vault" />
+<img src="./assets/neofetch-en.svg?v=6bd61ed0" width="860" alt="IT Student · PHP/Symfony, Python, Java, TypeScript · Docker, Proxmox · Project: Vault" />
 
 </div>
